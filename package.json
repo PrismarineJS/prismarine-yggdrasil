@@ -1,0 +1,25 @@
+{
+  "name": "prismarine-yggdrasil",
+  "version": "0.0.0",
+  "description": "An implementation of Minecraft's yggdrasil login API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wtfaremyinitials/prismarine-yggdrasil.git"
+  },
+  "keywords": [
+    "yggdrasil",
+    "minecraft",
+    "prismarine"
+  ],
+  "author": "Will Franzen <wtfranzen@gmail.com> (http://will.xyz/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wtfaremyinitials/prismarine-yggdrasil/issues"
+  },
+  "homepage": "https://github.com/wtfaremyinitials/prismarine-yggdrasil",
+  "dependencies": {
+    "node-uuid": "^1.4.2",
+    "superagent": "^0.21.0"
+  }
+}
