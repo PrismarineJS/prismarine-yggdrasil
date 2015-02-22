@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wtfaremyinitials/prismarine-yggdrasil.git"
+    "url": "https://github.com/PrismarineJS/prismarine-yggdrasil.git"
   },
   "keywords": [
     "yggdrasil",
@@ -15,9 +15,9 @@
   "author": "Will Franzen <wtfranzen@gmail.com> (http://will.xyz/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wtfaremyinitials/prismarine-yggdrasil/issues"
+    "url": "https://github.com/PrismarineJS/prismarine-yggdrasil/issues"
   },
-  "homepage": "https://github.com/wtfaremyinitials/prismarine-yggdrasil",
+  "homepage": "https://github.com/PrismarineJS/prismarine-yggdrasil",
   "dependencies": {
     "node-uuid": "^1.4.2",
     "superagent": "^0.21.0"
