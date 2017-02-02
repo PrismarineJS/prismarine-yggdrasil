@@ -1,4 +1,1 @@
-prismarine-yggdrasil
-===
-
-An implementation of Minecraft's yggdrasil login API
+# This project is not to be used, use [node-yggdrasil](https://github.com/zekesonxx/node-yggdrasil) instead.
