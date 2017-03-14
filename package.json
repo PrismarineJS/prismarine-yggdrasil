@@ -20,6 +20,6 @@
   "homepage": "https://github.com/PrismarineJS/prismarine-yggdrasil",
   "dependencies": {
     "node-uuid": "^1.4.2",
-    "superagent": "^0.21.0"
+    "superagent": "^3.5.0"
   }
 }
